@@ -1,0 +1,10 @@
+2014;Lewis Hamilton;Mercedes;Reino Unido
+2011;Sebastian Vettel;Red Bull;Alemanha
+2010;Sebastian Vettel;Red Bull;Alemanha
+2012;Sebastian Vettel;Red Bull;Alemanha
+2013;Sebastian Vettel;Red Bull;Alemanha
+2017;Lewis Hamilton;Mercedes;Reino Unido
+2015;Lewis Hamilton;Mercedes;Reino Unido
+2016;Nico Rosberg;Mercedes;Alemanha
+2018;Lewis Hamilton;Mercedes;Reino Unido
+2019;Lewis Hamilton;Mercedes;Reino Unido
